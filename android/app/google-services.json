@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702457383859",
+    "firebase_url": "https://examen-amst-default-rtdb.firebaseio.com",
+    "project_id": "examen-amst",
+    "storage_bucket": "examen-amst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702457383859:android:d78c703eb48685479d59c6",
+        "android_client_info": {
+          "package_name": "com.example.amst_examenfinal_grupo1_miranda_pulley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702457383859-a232jv9h14042blgdqermjna2soj5drh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehSriednGiKXg41F6qMUM6TyrSK2PKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702457383859-a232jv9h14042blgdqermjna2soj5drh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702457383859-s74dh5tvso0chahmg8dbcfu6bi9vbdg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "y"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
